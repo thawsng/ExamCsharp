@@ -1,0 +1,6 @@
+C:\Users\Tham\RiderProjects\ExamCsharp\ExamC\bin\Debug\ExamC.exe
+C:\Users\Tham\RiderProjects\ExamCsharp\ExamC\bin\Debug\ExamC.pdb
+C:\Users\Tham\RiderProjects\ExamCsharp\ExamC\obj\Debug\ExamC.csprojAssemblyReference.cache
+C:\Users\Tham\RiderProjects\ExamCsharp\ExamC\obj\Debug\ExamC.csproj.CoreCompileInputs.cache
+C:\Users\Tham\RiderProjects\ExamCsharp\ExamC\obj\Debug\ExamC.exe
+C:\Users\Tham\RiderProjects\ExamCsharp\ExamC\obj\Debug\ExamC.pdb
